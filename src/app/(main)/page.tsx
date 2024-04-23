@@ -4,6 +4,8 @@ import Container from "@/components/Layout/Container";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 
+// start home page
+
 export default function Home() {
  return (
   <>
