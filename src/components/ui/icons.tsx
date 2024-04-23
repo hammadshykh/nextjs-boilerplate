@@ -57,7 +57,9 @@ import {
  Share2,
  Award,
  BadgeCheck,
+ Github,
  PackagePlus,
+ Twitter,
 } from "lucide-react";
 
 const Icons = {
@@ -120,6 +122,8 @@ const Icons = {
  Award,
  BadgeCheck,
  PackagePlus,
+ Github,
+ Twitter,
 };
 
 export default Icons;

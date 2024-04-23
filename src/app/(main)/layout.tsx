@@ -1,5 +1,6 @@
 "use client";
 
+import Layout from "@/components/Layout";
 import React from "react";
 
 interface MainLayoutProps {
@@ -11,7 +12,7 @@ interface MainLayoutProps {
 const MainLayoutPage: React.FC<MainLayoutProps> = ({ children }) => {
  return (
   <>
-   <div className="bg-black">{children}</div>
+   <Layout>{children}</Layout>
   </>
  );
 };

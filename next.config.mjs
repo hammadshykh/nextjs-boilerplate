@@ -4,7 +4,7 @@ const nextConfig = {
  experimental: {},
  //  swcMinify:false,
  env: {
-  NEXTAUTH_SECRET: "codingwithbas",
+  NEXTAUTH_SECRET: "sdcweb",
   NEXTAUTH_URL: process.env.NEXTAUTH_URL,
  },
 };
